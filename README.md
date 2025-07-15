@@ -34,7 +34,7 @@
 
 ## 🌍 Events & Outreach
 
-- 🇩🇪 **Presented Assistive Tech at TUD Dresden – IITM Joint Workshop**  
+- 🇩🇪 **Presented Assistive Tech projects at TUD Dresden – IITM Joint Workshop**  
 - 🎤 Participated in **EMPOWER 2022 & 2023**, India's largest assistive tech forum  
 - 🛠️ Conducted workshops on **robotics**, **CNC machine building**, and **FabAcademy topics**
 
