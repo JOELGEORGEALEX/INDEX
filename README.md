@@ -15,25 +15,6 @@
 
 ---
 
-## 📂 Repository Overview
-
-| Repository | Description |
-|------------|-------------|
-| 🔧 [**Mechatronics_embedded**](https://github.com/JOELGEORGEALEX/Mechatronics_embedded) | Embedded drivers and low-level control logic for motors and sensors |
-| 🤖 [**Robotics**](https://github.com/JOELGEORGEALEX/Robotics) | Simulations and real-world builds for humanoid and mobile robots |
-| 🛠️ [**Design**](https://github.com/JOELGEORGEALEX/Design) | CAD concepts, prototypes like e-bike kits, dental kits, cardboard furniture |
-| 💻 [**ESP32 CNC SPI**](https://github.com/JOELGEORGEALEX/ESP32-CNC-controller-SPI-version) | Wireless CNC controller firmware using ESP32 and SPI |
-| 🧭 [**INDEX**](https://github.com/JOELGEORGEALEX/INDEX) | This repository – centralized project index and portfolio page |
-
----
-
-## 🖼️ Highlighted Projects
-
-### 🔹 Product Designs
-- **E-bike Converter** – Friction-driven motor module for standard cycles  
-- **Portable Dental Kit** – Mobile health service box designed for rural deployment  
-- **Cardboard Furniture** – Lightweight, laser-cut furniture from corrugated sheet  
-
 ### 🔸 Embedded & Robotics
 - **Humanoid Head & Neck Mechanisms** – Stewart platform-based actuation  
 - **Tendon-driven limbs**, **autonomous wheelchairs**, and **ROS-controlled hardware**  
